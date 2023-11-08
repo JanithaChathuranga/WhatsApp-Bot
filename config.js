@@ -9,7 +9,7 @@ const botConfig = {
 
 const pluginsConfig = {
   mirror: {
-    prefix: "!mirror!",
+    prefix: "!mirror",
   },
   roles: {
     dataFile: "./roles.json",
